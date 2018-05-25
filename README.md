@@ -1,12 +1,12 @@
 # DSX Local Workshop V1.2
-In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a certain development tool or a certain deployment task. 
+In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a specific development tool or deployment task. 
 
 ## About this repository
 This repository contains several lab subfolders. Some labs include notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder. 
 
 ## Prerequisites
-1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with analytics tools and deployment functions in DSX. 
-2. To run this workshop you need an instance of DSX Local. 
+1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with analytics tools and deployment functions in DSX Local. 
+2. To run this workshop you need an instance of DSX Local V1.2. 
 3. Download the [DSX_Local_Workshop.zip](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/DSX%20Local%20Projects/DSX_Local_Workshop.zip?raw=true).
 
 ### Setting up lab projects in DSX Local
