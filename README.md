@@ -14,7 +14,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Log in to DSX Local.
 3. Select "New Project" and select "From File".
 4. Browse to the .zip file and click **Create**.
-![ProjectFromFile](/img/CreateProjectFromFile.JPG?raw=true).
+![ProjectFromFile](/img/CreateProjectFromFile.png?raw=true).
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
 1. Open the project you just created. 
