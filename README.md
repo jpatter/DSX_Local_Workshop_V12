@@ -32,6 +32,8 @@ This repository contains several lab subfolders. Some labs include notebooks and
 ### Lab 4: Build R models in Jupyter and deploy into Shiny App
 1. Navigate to **Assets** view and open **DriverClassification** notebook.  
 2. Execute the code cells in the notebook, making sure to save the model into RStudio
+3. Open RStudio
+4. The "demoBrakeEvents" Shiny App is already included in this project.  Open demoBrakeEvents\server.R and run it.
 
 
 ### Lab 6: SPSS Modeler in DSX
