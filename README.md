@@ -21,24 +21,18 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
-### Lab 2: Invoke Deployed Model Programmatically (Jupyter/Python)
-1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn_Invoke_Deployed_Model** *Jupyter* notebook. 
-3. Follow instructions in the notebook.
-
-### Lab 3: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
-1. In your DSX_Local_Workshop Project, add the **CreditCardDefault_SkLearn** notebook from URL, https://raw.githubusercontent.com/SidneyPhoon/DSX_Local_Workshop/master/Analytic_Assets/CreditCardDefault_SkLearn.jupyter.ipynb
-![ProjectFromFile](/img/import_notebook_url.png?raw=true).
+### Lab 2: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
+1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
 2. Follow instructions in the notebook.
 
-### Lab 4: Build, Save and Test SparkML models (Zeppelin/Python)
-1. In your DSX_Local_Workshop Project, add the **TelcoChurn_Zeppelin** note from URL, https://raw.githubusercontent.com/SidneyPhoon/DSX_Local_Workshop/master/Analytic_Assets/TelcoChurn_Zeppelin.json 
-![ProjectFromFile](/img/import_zeppelin_url.png?raw=true).
+### Lab 3: Build, Save and Test SparkML models (Zeppelin/Python)
+1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
 2. Follow instructions in the notebook.
 
-### Lab 5: Build R models in Jupyter and deploy into Shiny App
-1. Download the [DS_for_Automotive.zip](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/DSX%20Local%20Projects/DS_for_Automotive.zip?raw=true)
-2.  Follow instructions in the **[R_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/R_in_DSX.pdf)**
+### Lab 4: Build R models in Jupyter and deploy into Shiny App
+1. Navigate to **Assets** view and open **DriverClassification** notebook.  
+2. Execute the code cells in the notebook, making sure to save the model into RStudio
+
 
 ### Lab 6: SPSS Modeler in DSX
 1. Download the [Modeler stream](https://github.com/SidneyPhoon/DSX_Local_Workshop/tree/master/SPSS%20Modeler/streams)
