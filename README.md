@@ -51,7 +51,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 3.  **Derive** 3 new fields, the differences between International, Local and LongDistace, and their respective means.
 4.  Build a model to predict **Churn** with these 3 additional derived fields.
 
-Modeler Exercise Solution [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Workshop_V12/blob/master/modeler/Predict_Customer_Churn_Solution.str?raw=true).
+Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Workshop_V12/blob/master/modeler/Predict_Customer_Churn_Solution.str?raw=true).
 
 
 
