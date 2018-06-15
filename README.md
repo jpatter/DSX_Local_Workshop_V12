@@ -38,7 +38,11 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ### Lab 6: SPSS Modeler in DSX
 1. Navigate to **SPSS Modeler Flows** and open the **Predict_Customer_Churn** Modeler Stream.
-2. 
+2. Review the Modeler steam and the palette of nodes
+3. Add a C5 modeling nodes to the canvas and connect it to the Partition node.  Build the C5 model.
+4. Connect an Evaluation node to the C5 model to evaluate its performance.
+
+Optional Exercise
 
 ### Lab 7: Batch Scoring in DSX
 1. Follow instructions in the **[DSX_Batch_Scoring.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/DSX_Batch_Scoring.pdf)**. 
