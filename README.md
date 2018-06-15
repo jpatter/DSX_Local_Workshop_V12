@@ -39,10 +39,19 @@ This repository contains several lab subfolders. Some labs include notebooks and
 ### Lab 6: SPSS Modeler in DSX
 1. Navigate to **SPSS Modeler Flows** and open the **Predict_Customer_Churn** Modeler Stream.
 2. Review the Modeler steam and the palette of nodes
-3. Add a C5 modeling nodes to the canvas and connect it to the Partition node.  Build the C5 model.
-4. Connect an Evaluation node to the C5 model to evaluate its performance.
+3. Add a **C5** modeling node to the canvas and connect it to the Partition node.  Build a C5 model.
+4. Click **View Model** in the C5 model.
+4. Connect an **Evaluation** node to the C5 model and run it to evaluate its performance.
+5. Connect an **Analysis node** to the C5 model and run it
+6. Connect the two models and evaluate the two models side-by-side in the **Evaluation** node.
 
-Optional Exercise
+**Optional Exercise:**
+1.  Calculate the **mean** of International, Local and LongDistace by **Gender** and **Status**
+2.  **Merge** the means of each group to the data set
+3.  **Derive** 3 new fields, the differences between International, Local and LongDistace, and their respective means.
+4.  Build a model to predict **Churn** with these 3 additional derived fields.
+
+
 
 ### Lab 7: Batch Scoring in DSX
 1. Follow instructions in the **[DSX_Batch_Scoring.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/DSX_Batch_Scoring.pdf)**. 
