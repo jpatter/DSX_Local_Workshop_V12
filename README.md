@@ -37,8 +37,8 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 
 ### Lab 6: SPSS Modeler in DSX
-1. Download the [Modeler stream](https://github.com/SidneyPhoon/DSX_Local_Workshop/tree/master/SPSS%20Modeler/streams)
-2. Follow instructions in the **[SPSS_Modeler_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/SPSS_Modeler_in_DSX.pdf)**
+1. Navigate to **SPSS Modeler Flows** and open the **Predict_Customer_Churn** Modeler Stream.
+2. 
 
 ### Lab 7: Batch Scoring in DSX
 1. Follow instructions in the **[DSX_Batch_Scoring.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/DSX_Batch_Scoring.pdf)**. 
