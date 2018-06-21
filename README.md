@@ -87,7 +87,9 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 
 ### Lab 9: Deploy Project into Production
 1. You must have completed Lab 1, Lab 7 and Lab 8 before working through this lab.
-2. Navigate to the project assets page and click **Commit and push**.
+2. Navigate to the top of the project assets page and click **Commit and push**.<br/>
+![commit_push](/img/commit_push.png?raw=true)
+3.
 
 
 
