@@ -74,11 +74,13 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
 2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
 3. Click the **Evaluate** tab.
-4. For the scripts inputs, specify these values.
+4. For the scripts inputs, specify these values.<br/>
 ![model_eval](/img/model_eval.png?raw=true)
 
 5. Click **Advanced Settings** and change the name of the script. For example, you can name it TelcoChurnEvalScript. Click Save.
 6. Click **Generate evaluation Script**.
 7. Click **Run now** and wait till the status changes to Success.
+8. 6.	Scroll down to review the results.<br/>
+![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
 
 
