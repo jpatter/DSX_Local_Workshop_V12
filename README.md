@@ -24,11 +24,9 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
-<!---
 ### Lab 2: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
 1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
 2. Follow instructions in the notebook.
---->
 
 ### Lab 3: Build, Save and Test SparkML models (Zeppelin/Python)
 1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
