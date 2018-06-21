@@ -1,5 +1,7 @@
 # DSX Local Workshop V1.2
-In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a specific development tool or deployment task. 
+In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a specific development tool or deployment task.
+
+This lab is meant to be instructor-led.  That is, the instructor will explain the objectives of the DSX capabilities covered in each lab, and demonstrate some of those capabilities at the beginnint or each lab.
 
 ## About this repository
 This repository contains several lab subfolders. Some labs include notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder. 
@@ -82,5 +84,8 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 7. Click **Run now** and wait till the status changes to Success.
 8. Scroll down to review the results.<br/>
 ![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
+
+### Lab 9: Deploy Project into Production
+
 
 
