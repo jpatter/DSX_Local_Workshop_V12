@@ -86,6 +86,9 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 ![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
 
 ### Lab 9: Deploy Project into Production
+1. You must have completed Lab 1, Lab 7 and Lab 8 before working through this lab.
+2. Navigate to the project assets page and click **Commit and push**.
+
 
 
 
