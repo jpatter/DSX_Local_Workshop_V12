@@ -71,5 +71,9 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 10. Verify that the *new_customers_scores.csv* is in the data section of the project.
 
 ### Lab 8: Create Model Evaluation Script and Test Evaluation
-1. Follow instructions in the **[DSX_Evaluation_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/DSX_Evaluation_in_DSX.pdf)** 
+1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
+2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
+3. Click the **Evaluate** tab.
+4. For the scripts inputs, specify these values:
+
 
