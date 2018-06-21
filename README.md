@@ -56,12 +56,16 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 
 
 ### Lab 7: Create Batch Script and Test Batch Scoring
-1. You must have completed Lab 1: Build, Save and Test SparkML Models before working through this lab
-2. Navigate the to  **Models** section of the project and click into the saved **Telco_Churn_ML_model**
-3. Click the **Batch score** tab
-4. For **Input data set**, select *TelcoModelFeedback.csv*
-5. For **Output data set**, check **"Local file"** and specify *new_customers_scores.csv"*
-6. On the top right, click **Advanced Settings
+1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
+2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
+3. Click the **Batch score** tab.
+4. For **Input data set**, select *TelcoModelFeedback.csv*.
+5. For **Output data set**, check **"Local file"** and specify *new_customers_scores.csv*.
+6. On the top right, click **Advanced Settings**.
+7. Scroll through the Advanced Setting to see the various options.  Click **Save** to save the default settings.
+8. Click **Generate Batch Script**.  (Note: the batch script can be edited.  For example to perform pre/post processing tasks)
+9  Click **Run now** and wait till the status changes to Success.
+10.  Verify that the *new_customers_scores.csv* is in the data section of the project.
 
 ### Lab 8: Model Evaluation
 1. Follow instructions in the **[DSX_Evaluation_in_DSX.pdf](https://github.com/SidneyPhoon/DSX_Local_Workshop/blob/master/Lab%20Instructions/DSX_Evaluation_in_DSX.pdf)** 
