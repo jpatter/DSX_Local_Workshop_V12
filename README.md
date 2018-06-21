@@ -63,7 +63,7 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 5. For **Output data set**, check **"Local file"** and specify *new_customers_scores.csv*.
 6. On the top right, click **Advanced Settings**.
 7. Scroll through the Advanced Setting to see the various options.  Click **Save** to save the default settings.
-8. Click **Generate Batch Script**.  (Note: the batch script can be edited. For example to perform pre/post processing tasks)
+8. Click **Generate Batch Script**.  (Note: the batch script can be edited. For example, to perform pre/post processing tasks)
 
 ![batchscoring](/img/batch_scoring.png?raw=true)
 
