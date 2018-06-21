@@ -112,7 +112,15 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 16. Filter the assets by **Scripts** and configure jobs for the batch scoring and model evaluation scripts.
 17. Click the **Deployments** tab to list all the deployments you have created. <br/>
 ![mmd_deployments](/img/mmd_deployments.png?raw=true)<br/>
-18. sfsds
+18. The deployments are in a disabled state because the project has not been launch.  Click the **Launch** button at the top right corner.<br/>
+Launching the release will:
+* Start all environments that will be used for deployment
+* Enable the REST endpoints
+* Enable URLs for “applications” (notebooks and Shiny)
+* Enable schedules (if they are configured)
+* Enable on-demand invocation of jobs. 
+
+19. rter
 
 
 
