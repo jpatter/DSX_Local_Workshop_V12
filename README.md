@@ -107,7 +107,9 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 12. Click **Web service** to define an **Online Deployment** for the model.
 13. Specify the name *telco-churn-online*.  Notice that the name gets appended to the URL (REST endpoint), that’s why it has to be lowercase with no special characters. 
 14. Click **Create**
-15. The **REST endpoint** is displayed in the model details. This endpoint won’t be live until we launch the project.
+15. The **REST endpoint** is displayed in the model details. This endpoint won’t be live until we launch the project.<br/>
+![mmd_rest_endpoint](/img/mmd_rest_endpoint.png?raw=true)
+16. etere
 
 
 
