@@ -79,7 +79,7 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 4. For the scripts inputs, specify these values.<br/>
 ![model_eval](/img/model_eval.png?raw=true)
 
-5. Click **Advanced Settings** and change the name of the script. For example, you can name it TelcoChurnEvalScript. Click Save.
+5. Click **Advanced Settings** and change the name of the script. For example, you can name it ChurnModelEvalScript. Click Save.
 6. Click **Generate evaluation Script**.
 7. Click **Run now** and wait till the status changes to Success.
 8. Scroll down to review the results.<br/>
@@ -94,6 +94,8 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 5. Click **Commit and push**.
 6. Navigate to the **Deployment Manager**.  <br/>
 ![deployment_manager](/img/deployment_manager.png?raw=true)
+7. Click the **+** icon to create a project release.
+8. Specify thi
 
 
 
