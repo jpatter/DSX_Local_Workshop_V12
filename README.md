@@ -68,6 +68,7 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 ![batchscoring](/img/batch_scoring.png?raw=true)
 
 9  Click **Run now** and wait till the status changes to Success.
+
 10. Verify that the *new_customers_scores.csv* is in the data section of the project.
 
 ### Lab 8: Model Evaluation
