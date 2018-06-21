@@ -64,6 +64,7 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 6. On the top right, click **Advanced Settings**.
 7. Scroll through the Advanced Setting to see the various options.  Click **Save** to save the default settings.
 8. Click **Generate Batch Script**.  (Note: the batch script can be edited. For example to perform pre/post processing tasks)
+
 ![batchscoring](/img/batch_scoring.png?raw=true)
 
 9  Click **Run now** and wait till the status changes to Success.
