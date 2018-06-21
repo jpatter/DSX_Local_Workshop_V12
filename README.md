@@ -1,7 +1,7 @@
 # DSX Local Workshop V1.2
 In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a specific development tool or deployment task.
 
-This lab is meant to be instructor-led.  That is, the instructor will explain the objectives of the DSX capabilities covered in each lab, and demonstrate some of those capabilities at the beginnint or each lab.
+This lab is meant to be instructor-led.  That is, the instructor will explain the objectives of the DSX capabilities covered in each lab, and demonstrate some of those capabilities at the beginning of each lab.
 
 ## About this repository
 This repository contains several lab subfolders. Some labs include notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder. 
@@ -89,7 +89,10 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 1. You must have completed Lab 1, Lab 7 and Lab 8 before working through this lab.
 2. Navigate to the top of the project assets page and click **Commit and push**.<br/>
 ![commit_push](/img/commit_push.png?raw=true)
-3.
+3. Specify the **commit message** about the changes you are committing, e.g. "*deploy generated scripts*".
+4. Specify a **version tag**, e.g. *workshop-release*.  A version tag marks a deployment ready version of the project, and identifies a specific verion of the project.
+5. Click **Commit and push**.
+6.
 
 
 
