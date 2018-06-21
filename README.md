@@ -92,7 +92,8 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 3. Specify the **commit message** about the changes you are committing, e.g. "*deploy generated scripts*".
 4. Specify a **version tag**, e.g. *workshop-release*.  A version tag marks a deployment ready version of the project, and identifies a specific verion of the project.
 5. Click **Commit and push**.
-6.
+6. Navigate to the **Deployment Manager**.  <br/>
+![deployment_manager](/img/deployment_manager.png?raw=true)
 
 
 
