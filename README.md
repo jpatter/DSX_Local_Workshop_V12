@@ -80,7 +80,7 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 5. Click **Advanced Settings** and change the name of the script. For example, you can name it TelcoChurnEvalScript. Click Save.
 6. Click **Generate evaluation Script**.
 7. Click **Run now** and wait till the status changes to Success.
-8. 6.	Scroll down to review the results.<br/>
+8. Scroll down to review the results.<br/>
 ![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
 
 
