@@ -110,6 +110,9 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 15. The **REST endpoint** is displayed in the model details. This endpoint won’t be live until we launch the project.<br/>
 ![mmd_rest_endpoint](/img/mmd_rest_endpoint.png?raw=true)<br/>
 16. Filter the assets by **Scripts** and configure jobs for the batch scoring and model evaluation scripts.
+17. Click the **Deployments** tab to list all the deployments you have created. <br/>
+![mmd_deployments](/img/mmd_rest_deployments.png?raw=true)<br/>
+18
 
 
 
