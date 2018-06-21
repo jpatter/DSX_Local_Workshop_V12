@@ -120,7 +120,7 @@ Launching the release will:
 * Enable schedules (if they are configured)
 * Enable on-demand invocation of jobs. 
 
-19. rter
+19. When all the deployments are enabled, click on any of the deployments and test them either with an API call or run a batch job on demand.
 
 
 
