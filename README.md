@@ -3,6 +3,7 @@ In this workshop you will learn how to develop and deploy applications in DSX Lo
 
 This lab is meant to be instructor-led.  That is, the instructor will explain the objectives of the DSX capabilities covered in each lab, and demonstrate some of those capabilities at the beginning of each lab.
 
+
 ## About this repository
 This repository contains several lab subfolders. Some labs include notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder. 
 
@@ -23,9 +24,11 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
+<!---
 ### Lab 2: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
 1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
 2. Follow instructions in the notebook.
+--->
 
 ### Lab 3: Build, Save and Test SparkML models (Zeppelin/Python)
 1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
