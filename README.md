@@ -75,5 +75,6 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
 3. Click the **Evaluate** tab.
 4. For the scripts inputs, specify these values:
+![model_eval](/img/model_eval.png?raw=true)
 
 
