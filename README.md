@@ -108,8 +108,9 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 13. Specify the name *telco-churn-online*.  Notice that the name gets appended to the URL (REST endpoint), that’s why it has to be lowercase with no special characters. 
 14. Click **Create**
 15. The **REST endpoint** is displayed in the model details. This endpoint won’t be live until we launch the project.<br/>
-![mmd_rest_endpoint](/img/mmd_rest_endpoint.png?raw=true)
-16. etere
+![mmd_rest_endpoint](/img/mmd_rest_endpoint.png?raw=true)<br/>
+16. Filter the assets by **Scripts** and configure jobs for the batch scoring and model evaluation scripts.
+
 
 
 
