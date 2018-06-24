@@ -58,7 +58,15 @@ Goals:
 4. RStudio / Shiny
 5. Publishing to Shiny
 
-### Lab 6: SPSS Modeler in DSX
+### Lab 5: Watson Machine Learning
+1. Follow the instructions in Lab Instructions/WatsonMachineLearning.pdf
+
+Goals:
+1. Uploading Data Sets
+2. Introduction to Watson Machine Learning
+3. Optional: Refine Data (?)
+
+### Lab 6: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
 1. Navigate to **SPSS Modeler Flows** and open the **Predict_Customer_Churn** Modeler Stream.
 2. Review the Modeler steam and the palette of nodes
 3. Add a **C5** modeling node to the canvas and connect it to the Partition node.  Build a C5 model.
@@ -105,7 +113,7 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 8. Scroll down to review the results.<br/>
 ![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
 
-### Lab 9: Deploy Project into Production
+### Lab 9: Deploy Project into Production -- review DSX_Deployment.pdf in Lab Instructions
 1. You must have completed Lab 1, Lab 7 and Lab 8 before working through this lab.
 2. Navigate to the top of the project assets page and click **Commit and push**.<br/>
 ![commit_push](/img/commit_push.png?raw=true)
@@ -142,6 +150,9 @@ Launching the release will:
 
 19. When all the deployments are enabled, click on any of the deployments and test them either with an API call or run a batch job on demand.
 
+### Lab 10: DSXL Data Sources
+
+1. Follow the instructions in Lab Instructions/DSXL_DataSources.pdf
 
 
 
