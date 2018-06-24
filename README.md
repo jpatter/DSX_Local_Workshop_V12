@@ -49,18 +49,14 @@ Goals:
 2. Multiple magic keywords i.e. %sql, %spark.pyspark
 
 ### Lab 4: Build R models in Jupyter and deploy into Shiny App
-1. Navigate to **Assets** view and open **DriverClassification** notebook.  
-2. Execute the code cells in the notebook, making sure to save the model into RStudio
-3. Open RStudio
-4. The "demoBrakeEvents" Shiny App is already included in this project.  Open demoBrakeEvents\server.R if not already open.   
-5. Select **Run App**
-6. 
+1. Follow the instructions in Lab Instructions/R_in_DSX.pdf
 
 Goals:
 1. R notebook
 2. Loading R libraries
 3. Saving model to RStudio File System (this will NOT show in Models view)
 4. RStudio / Shiny
+5. Publishing to Shiny
 
 ### Lab 6: SPSS Modeler in DSX
 1. Navigate to **SPSS Modeler Flows** and open the **Predict_Customer_Churn** Modeler Stream.
