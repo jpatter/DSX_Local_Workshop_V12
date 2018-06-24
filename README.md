@@ -24,20 +24,43 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
+Goals:
+1. Familiarity with Jupyter notebook -- note time it takes to start notebook
+2. Importing libraries (included in image and external i.e. pixiedust)
+3. Save model to repository
+4. Test model via UI -- also view installed packages
+5. Test model via REST
+6. Note notebook is still running
+
 ### Lab 2: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
 1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
 2. Follow instructions in the notebook.
+
+Goals:
+1. Note faster notebook start time
+2. %brunel cells
 
 ### Lab 3: Build, Save and Test SparkML models (Zeppelin/Python)
 1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
 2. Follow instructions in the notebook.
 
+Goals:
+1. Note multiple interpreters
+2. Multiple magic keywords i.e. %sql, %spark.pyspark
+
 ### Lab 4: Build R models in Jupyter and deploy into Shiny App
 1. Navigate to **Assets** view and open **DriverClassification** notebook.  
 2. Execute the code cells in the notebook, making sure to save the model into RStudio
 3. Open RStudio
-4. The "demoBrakeEvents" Shiny App is already included in this project.  Open demoBrakeEvents\server.R and run it.
+4. The "demoBrakeEvents" Shiny App is already included in this project.  Open demoBrakeEvents\server.R if not already open.   
+5. Select **Run App**
+6. 
 
+Goals:
+1. R notebook
+2. Loading R libraries
+3. Saving model to RStudio File System (this will NOT show in Models view)
+4. RStudio / Shiny
 
 ### Lab 6: SPSS Modeler in DSX
 1. Navigate to **SPSS Modeler Flows** and open the **Predict_Customer_Churn** Modeler Stream.
