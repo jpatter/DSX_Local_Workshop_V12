@@ -24,6 +24,14 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
+Review:
+1. Save and checkpoint
+2. How to run a cell
+3. Restarting the kernel (pixiedust)
+4. Testing the model
+5. Setting the scoring endpoint
+6. Stopping the kernel
+ 
 Goals:
 1. Familiarity with Jupyter notebook -- note time it takes to start notebook
 2. Importing libraries (included in image and external i.e. pixiedust)
