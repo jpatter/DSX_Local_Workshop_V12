@@ -125,6 +125,13 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 9. Click **Run now** and wait till the status changes to Success.
 10. Verify that the *new_customers_scores.csv* is in the data section of the project.
 
+Review:
+1. Batch scoring
+2. Options (parameters, scheduling)
+
+Goals:
+1. Introduction to batch scoring
+
 ### Lab 8: Create Model Evaluation Script and Test Evaluation
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
 2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
