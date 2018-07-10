@@ -44,6 +44,9 @@ Goals:
 1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
 2. Follow instructions in the notebook.
 
+Review:
+1. Jupyter magics (i.e. %brunel, %matplotlib)
+
 Goals:
 1. Note faster notebook start time
 2. %brunel cells
@@ -52,12 +55,26 @@ Goals:
 1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
 2. Follow instructions in the notebook.
 
+Review:
+1. Interpreter bindings
+2. Running paragraphs 
+3. Zeppelin magics
+4. Graph interactions
+
 Goals:
 1. Note multiple interpreters
-2. Multiple magic keywords i.e. %sql, %spark.pyspark
+2. Multiple magics i.e. %sql, %spark.pyspark
 
 ### Lab 4: Build R models in Jupyter and deploy into Shiny App
 1. Follow the instructions in Lab Instructions/R_in_DSX.pdf
+
+Review:
+1. Jupyter notebook but R
+2. system() calls -- underlying filesystem
+3. Running RStudio
+4. Publishing to Shiny server (unique name!)
+5. Content visibility
+6. Permalink (please save this when shown)
 
 Goals:
 1. R notebook
