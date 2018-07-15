@@ -36,7 +36,7 @@ Review:
 Goals:
 1. Familiarity with Jupyter notebook -- note time it takes to start notebook
 2. Importing libraries (included in image and external i.e. pixiedust)
-3. Save model to repository
+3. Save model to repository (dsx_ml package)
 4. Test model via UI -- also view installed packages
 5. Test model via REST
 6. Note notebook is still running
@@ -67,7 +67,7 @@ Goals:
 2. Multiple magics i.e. %sql, %spark.pyspark
 
 ### Lab 4: Build R models in Jupyter and deploy into Shiny App
-1. Follow the instructions in Lab Instructions/R_in_DSX.pdf
+1. Follow the instructions in Lab Instructions/R_in_DSXL.pdf
 
 Review:
 1. Jupyter notebook but R
@@ -93,23 +93,10 @@ Goals:
 3. Optional: Refine Data (?)
 
 ### Lab 6: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
-1. Navigate to **SPSS Modeler Flows** and open the **Predict_Customer_Churn** Modeler Stream.
-2. Review the Modeler steam and the palette of nodes
-3. Add a **C5** modeling node to the canvas and connect it to the Partition node.  Build a C5 model.
-4. Click **View Model** in the C5 model.
-4. Connect an **Evaluation** node to the C5 model and run it to evaluate its performance.
-5. Connect an **Analysis node** to the C5 model and run it
-6. Connect the two models and evaluate the two models side-by-side in the **Evaluation** node.
+1. Follow the instructions in Lab Instructions/SPSS_Modeler_in_DSXL.pdf
 
-**Optional Exercise:**
-1.  Calculate the **mean** of International, Local and LongDistace by **Gender** and **Status**
-2.  **Merge** the means of each group to the data set
-3.  **Derive** 3 new fields, the differences between International, Local and LongDistace, and their respective means.
-4.  Build a model to predict **Churn** with these 3 additional derived fields.
-
-Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Workshop_V12/blob/master/modeler/Predict_Customer_Churn_Solution.str?raw=true).
-
-
+Goals:
+1. Introduction to SPSS Modeler
 
 ### Lab 7: Create Batch Script and Test Batch Scoring
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
