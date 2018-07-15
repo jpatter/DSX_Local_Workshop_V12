@@ -9,11 +9,12 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ## Prerequisites
 1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with analytics tools and deployment functions in DSX Local. 
-2. To run this workshop you need an instance of DSX Local V1.2. 
-3. Download the [DSX_Local_V12_Workshop.zip](https://github.com/SidneyPhoon/DSX_Local_Workshop_V12/blob/master/DSX%20Local%20Projects/DSX_Local_V12_Workshop.zip?raw=true).
+2. To run this workshop you need an instance of DSX Local V1.2.0.2 or above. 
+
+3. Download [DSX_Demos.zip](https://github.com/jpatter/DSX_Local_Workshop_V12/blob/master/DSX%20Local%20Projects/DSX_Demos.zip?raw=true).
 
 ### Setting up lab projects in DSX Local
-1. Rename the downloaded **DSX_Local_V12_Workshop.zip** file and give it a unique name.  For example, add your initials.    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
+1. Rename the downloaded **DSX_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. DSX_Demos_JP.zip).    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
 2. Log in to DSX Local.
 3. Select "New Project" and select "From File".
 4. Browse to the .zip file and click **Create**.
@@ -24,6 +25,14 @@ This repository contains several lab subfolders. Some labs include notebooks and
 2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
+Review:
+1. Save and checkpoint
+2. How to run a cell
+3. Restarting the kernel (pixiedust)
+4. Testing the model
+5. Setting the scoring endpoint
+6. Stopping the kernel
+ 
 Goals:
 1. Familiarity with Jupyter notebook -- note time it takes to start notebook
 2. Importing libraries (included in image and external i.e. pixiedust)
@@ -36,6 +45,9 @@ Goals:
 1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
 2. Follow instructions in the notebook.
 
+Review:
+1. Jupyter magics (i.e. %brunel, %matplotlib)
+
 Goals:
 1. Note faster notebook start time
 2. %brunel cells
@@ -44,12 +56,26 @@ Goals:
 1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
 2. Follow instructions in the notebook.
 
+Review:
+1. Interpreter bindings
+2. Running paragraphs 
+3. Zeppelin magics
+4. Graph interactions
+
 Goals:
 1. Note multiple interpreters
-2. Multiple magic keywords i.e. %sql, %spark.pyspark
+2. Multiple magics i.e. %sql, %spark.pyspark
 
 ### Lab 4: Build R models in Jupyter and deploy into Shiny App
 1. Follow the instructions in Lab Instructions/R_in_DSX.pdf
+
+Review:
+1. Jupyter notebook but R
+2. system() calls -- underlying filesystem
+3. Running RStudio
+4. Publishing to Shiny server (unique name!)
+5. Content visibility
+6. Permalink (please save this when shown)
 
 Goals:
 1. R notebook
@@ -100,6 +126,13 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 9. Click **Run now** and wait till the status changes to Success.
 10. Verify that the *new_customers_scores.csv* is in the data section of the project.
 
+Review:
+1. Batch scoring
+2. Options (parameters, scheduling)
+
+Goals:
+1. Introduction to batch scoring
+
 ### Lab 8: Create Model Evaluation Script and Test Evaluation
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
 2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
@@ -131,7 +164,8 @@ Download [Modeler Exercise Solution](https://github.com/SidneyPhoon/DSX_Local_Wo
 
 9. Click **Create**. This will take a few minutes because DSX is making a copy of all assets in the project.
 10. The default view shows all assets that are a part of the project. Notice that you can filter them by type if you select the drop down. 
-11.  Filter the assets by **Models**.
+11. Filter the assets by **Models**.
+12. Select **Telco_Churn_ML_Model**
 12. Click **Web service** to define an **Online Deployment** for the model.
 13. Specify the name *telco-churn-online*.  Notice that the name gets appended to the URL (REST endpoint), that’s why it has to be lowercase with no special characters. 
 14. Click **Create**
