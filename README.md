@@ -102,7 +102,7 @@ Goals:
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
 2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
 3. Click the **Batch score** tab.
-4. For **Input data set**, select *new_customer_churn_data.csv*.
+4. For **Input data set**, select *TelcoModelFeedback.csv*.
 5. For **Output data set**, check **"Local file"** and specify *new_customers_scores.csv*.
 6. On the top right, click **Advanced Settings**.
 7. Scroll through the Advanced Setting to see the various options.  Click **Save** to save the default settings.
