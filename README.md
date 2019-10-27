@@ -9,20 +9,20 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ## Prerequisites
 1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with analytics tools and deployment functions in WSL Local. 
-2. To run this workshop you need an instance of DSX Local V1.2.0.2 or above. 
+2. To run this workshop you need an instance of WSL Local V1.2.3 or above. 
 
-3. Download [DSX_Demos.zip](https://github.com/jpatter/DSX_Local_Workshop_V12/blob/master/DSX%20Local%20Projects/DSX_Demos.zip?raw=true).
+3. Download [WSL_Demos.zip](https://github.com/jpatter/DSX_Local_Workshop_V12/blob/master/DSX%20Local%20Projects/DSX_Demos.zip?raw=true).
 
 ### Setting up lab projects in WSL Local
-1. Rename the downloaded **DSX_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. DSX_Demos_JP.zip).    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
-2. Log in to DSX Local.
+1. Rename the downloaded **WSL_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. WSL_Demos_JP.zip).    *Note: Project names in WSL Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
+2. Login to WSL Local.
 3. Select "New Project" and select "From File".
 4. Browse to the .zip file and click **Create**.
 ![ProjectFromFile](/img/CreateProjectFromFile.png?raw=true).
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
 1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
+2. Navigate to **Assets** view and open **TelcoChurn_SparkML_35** *Jupyter* notebook. This notebook has been implemented for the Python 3.5 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
 Review:
@@ -67,7 +67,7 @@ Goals:
 2. Multiple magics i.e. %sql, %spark.pyspark
 
 ### Lab 4: Build R models in Jupyter and deploy into Shiny App
-1. Follow the instructions in Lab Instructions/R_in_DSXL.pdf
+1. Follow the instructions in Lab Instructions/R_in_WSL.pdf
 
 Review:
 1. Jupyter notebook but R
@@ -90,10 +90,9 @@ Goals:
 Goals:
 1. Uploading Data Sets
 2. Introduction to Watson Machine Learning
-3. Optional: Refine Data (?)
 
-### Lab 6: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
-1. Follow the instructions in Lab Instructions/SPSS_Modeler_in_DSXL.pdf
+### Lab 6: SPSS Modeler in WSL -- consider changing for Lab in Lab Instructions
+1. Follow the instructions in Lab Instructions/SPSS_Modeler_in_WSL.pdf
 
 Goals:
 1. Introduction to SPSS Modeler
@@ -133,7 +132,7 @@ Goals:
 8. Scroll down to review the results.<br/>
 ![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
 
-### Lab 9: Deploy Project into Production -- review DSX_Deployment.pdf in Lab Instructions
+### Lab 9: Deploy Project into Production -- review WSL_Deployment.pdf in Lab Instructions
 1. You must have completed Lab 1, Lab 7 and Lab 8 before working through this lab.
 2. Navigate to the top of the project assets page and click **Commit and push**.<br/>
 ![commit_push](/img/commit_push.png?raw=true)
@@ -171,9 +170,9 @@ Launching the release will:
 
 19. When all the deployments are enabled, click on any of the deployments and test them either with an API call or run a batch job on demand.
 
-### Lab 10: DSXL Data Sources
+### Lab 10: WSL Data Sources
 
-1. Follow the instructions in Lab Instructions/DSXL_DataSources.pdf
+1. Follow the instructions in Lab Instructions/WSL_DataSources.pdf
 
 
 
