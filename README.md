@@ -1,19 +1,19 @@
-# DSX Local Workshop V1.2
-In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a specific development tool or deployment task.
+# WSL Local Workshop V1.2
+In this workshop you will learn how to develop and deploy applications in WSL Local. The workshop has been divided into several stand-alone parts for those who are interested in a specific development tool or deployment task.
 
-This lab is meant to be instructor-led.  That is, the instructor will explain the objectives of the DSX capabilities covered in each lab, and demonstrate some of those capabilities at the beginning of each lab.
+This lab is meant to be instructor-led.  That is, the instructor will explain the objectives of the WSL capabilities covered in each lab, and demonstrate some of those capabilities at the beginning of each lab.
 
 
 ## About this repository
 This repository contains several lab subfolders. Some labs include notebooks and data, while others have additional instructions that are located in the *Lab Instructions* folder. 
 
 ## Prerequisites
-1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with analytics tools and deployment functions in DSX Local. 
+1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with analytics tools and deployment functions in WSL Local. 
 2. To run this workshop you need an instance of DSX Local V1.2.0.2 or above. 
 
 3. Download [DSX_Demos.zip](https://github.com/jpatter/DSX_Local_Workshop_V12/blob/master/DSX%20Local%20Projects/DSX_Demos.zip?raw=true).
 
-### Setting up lab projects in DSX Local
+### Setting up lab projects in WSL Local
 1. Rename the downloaded **DSX_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. DSX_Demos_JP.zip).    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
 2. Log in to DSX Local.
 3. Select "New Project" and select "From File".
