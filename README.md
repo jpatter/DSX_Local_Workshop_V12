@@ -22,7 +22,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
 1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn_SparkML_35** *Jupyter* notebook. This notebook has been implemented for the Python 3.5 runtime. You can verify the runtime by running the first cell in the notebook. 
+2. Navigate to **Assets** view and open **TelcoChurn_SparkML_35a** *Jupyter* notebook. This notebook has been implemented for the Python 3.5 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
 Review:
@@ -139,7 +139,7 @@ Goals:
 3. Specify the **commit message** about the changes you are committing, e.g. "*deploy generated scripts*".
 4. Specify a **version tag**, e.g. *workshop-release*.  A version tag marks a deployment ready version of the project, and identifies a specific verion of the project.
 5. Click **Commit and push**.
-6. Navigate to the **Deployment Manager**.  <br/>
+6. Navigate to **IBM Watson Machine Learning**.  <br/>
 ![deployment_manager](/img/deployment_manager.png?raw=true)
 7. Click the **+** icon to create a project release.
 8. Specify the following inputs
