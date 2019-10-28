@@ -22,7 +22,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
 1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn_SparkML_35** *Jupyter* notebook. This notebook has been implemented for the Python 3.5 runtime. You can verify the runtime by running the first cell in the notebook. 
+2. Navigate to **Assets** view and open **TelcoChurn_SparkML_35a** *Jupyter* notebook. This notebook has been implemented for the Python 3.5 runtime. You can verify the runtime by running the first cell in the notebook. 
 3. Follow instructions in the notebook.
 
 Review:
