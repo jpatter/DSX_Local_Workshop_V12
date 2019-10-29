@@ -141,6 +141,12 @@ Goals:
 2. DB user is dash100580
 3. DB password is W2bOD_Cg2db_
 
+### Lab 11: Decision Optimization
+
+1. Bring up "Use DO to schedule sports games Local" notebook.
+2. Run Decision Optimization model Wizard
+
+
 
 
 
