@@ -14,7 +14,7 @@ This repository contains several lab subfolders. Some labs include notebooks and
 3. Download [WSL_Demos.zip](https://github.com/jpatter/DSX_Local_Workshop_V12/blob/master/DSX%20Local%20Projects/WSL_Demos.zip?raw=true).
 
 ### Setting up lab projects in WSL Local
-1. Rename the downloaded **WSL_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. WSL_Demos_JP.zip).    *Note: Project names in WSL Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
+1. Rename the downloaded **WSL_Demos.zip** file and **give it a unique name.  For example, add your initials (i.e. WSL_Demos_JP.zip).**    *Note: Project names in WSL Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
 2. Login to WSL Local.
 3. Select "New Project" and select "From File".
 4. Browse to the .zip file and click **Create**.
@@ -54,7 +54,7 @@ Goals:
 
 ### Lab 3: Build, Save and Test SparkML models (Zeppelin/Python)
 1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
-2. Follow instructions in the notebook.
+2. Follow instructions in the notebook.   **Be sure to put the Spark interpreter at the top of the interpreter list**
 
 Review:
 1. Interpreter bindings
