@@ -138,7 +138,8 @@ Goals:
 ### Lab 10: WSL Data Sources
 
 1. Bring up DatabaseExample notebook.
-2. DB password is W2bOD_Cg2db_
+2. DB user is dash100580
+3. DB password is W2bOD_Cg2db_
 
 
 
