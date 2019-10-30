@@ -145,6 +145,7 @@ Goals:
 
 1. Bring up "Use DO to schedule sports games Local" notebook.
 2. Run Decision Optimization model Wizard
+3. https://content-dsxlocal.mybluemix.net/docs/content/SSAS34_current/DODS/DODS_Mdl_Assist/exhousebuild.html
 
 
 
